@@ -1,4 +1,4 @@
-# Czech translations for Ruby on Rails 
+# Czech translations for Ruby on Rails
 # by Michal Zima (xhire@mujmalysvet.cz)
 # Based on work of Karel Minařík (karmi@karmi.cz)
 
@@ -58,7 +58,7 @@ cs:
          mb:   'MB'
          gb:   'GB'
          tb:   'TB'
-    percentage: 
+    percentage:
       format:
         separator: ','
         delimiter: ' '
@@ -71,7 +71,7 @@ cs:
   # NOTE: In Czech language, these values are different for the past and for
   #       the future. Preference has been given to past here.
   datetime:
-    distance_in_words: 
+    distance_in_words:
       half_a_minute: 'půl minutou'
       less_than_x_seconds:
         one:   'asi před vteřinou'
@@ -135,7 +135,7 @@ cs:
         odd:                      'musí být liché číslo'
         even:                     'musí být sudé číslo'
       template:
-        header: 
+        header:
           one:   'Při zpracování záznamu došlo k chybě, a proto ho nebylo možné uložit'
           other: 'Při zpracování záznamu došlo k {{count}} chybám, a proto ho nebylo možné uložit'
         body:    'Následující pole obsahují chybně vyplněné údaje:'
