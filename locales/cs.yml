@@ -50,14 +50,14 @@ cs:
         precision: 1
         separator: ','
         delimiter: ' '
-     storage_units:
-       format: "%n %u"
-       units:
-         byte: 'B'
-         kb:   'kB'
-         mb:   'MB'
-         gb:   'GB'
-         tb:   'TB'
+    storage_units:
+      format: '%n %u'
+      units:
+        byte: 'B'
+        kb:   'kB'
+        mb:   'MB'
+        gb:   'GB'
+        tb:   'TB'
     percentage:
       format:
         separator: ','
